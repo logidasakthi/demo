@@ -1,7 +1,7 @@
 import java.util.*;
 class St{
 	public static void main(String args[]){
-	int n=5,i,j;
+	int n,i,j;
 	Scanner s=new Scanner(System.in);
 	System.out.println("enter the number");
 	n=s.nextInt();
