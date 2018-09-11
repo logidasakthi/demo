@@ -1,5 +1,5 @@
 import java.util.*;
-class St1{
+class St4{
 	public static void main(String args[]){
 	Scanner s=new Scanner(System.in);
 	int n,i,j;
@@ -9,7 +9,7 @@ class St1{
 	{
 	for(j=n;j>i;j--)
 	{ 	
-		System.out.print("*");
+		System.out.print(+j);
 	}
 	System.out.println(" ");
 	}
